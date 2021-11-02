@@ -1,0 +1,6 @@
+
+.DS_Store
+.orig
+Qsafe.xcworkspace
+Pods/
+Podfile.lock
